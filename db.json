@@ -1,1 +1,22 @@
-
+[
+    {
+      "tytuł":"Zakupy",
+      "treśc":"Kup mleko, papryke, ogorki.",
+      "data_utw":"2026-10-15"
+    },
+  {
+      "tytuł":"Badania",
+      "treśc":"Okulista - 9:00 20.11.2026",
+      "data_utw":"2026-07-12"
+    },
+  {
+      "tytuł":"Mechanik",
+      "treśc":"Wymiana opon i klockow hamulcowych",
+      "data_utw":"2026-08-20"
+    },
+  {
+      "tytuł":"Komputer",
+      "treśc":"Wymienić karte graficzną i RAM",
+      "data_utw":"2026-04-30"
+    }
+]
